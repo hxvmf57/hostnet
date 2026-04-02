@@ -7,6 +7,7 @@ So you're looking for hosting in the Baltics and someone dropped the name Hostne
 Fair question. Let me walk you through what I found.
 
 <img width="3181" height="1215" alt="image" src="https://github.com/user-attachments/assets/4c31f785-9d80-4f8d-888d-1ffa4e937d16" />
+
 ---
 
 ## Who Is Hostnet, Actually?
